@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Magnotemer_FP") (type "KiCad") (uri "${KIPRJMOD}/sym") (options "") (descr ""))
+)
